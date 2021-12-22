@@ -1,0 +1,37 @@
+body {
+  /* background-color: rgb(45, 45, 189); */
+  background-image: url("imagemDeFundo.jpg");
+  color: white;
+  font: normal 15pt Arial;
+}
+header {
+  text-align: center;
+}
+section {
+  background-color: rgb(216, 216, 216);
+  margin: 0 auto;
+  /*border-radius: 10px;*/
+  height: 220px;
+  padding: 10px 0px 30px 0px;
+  width: 500px;
+  color: black;
+  /*padding: 10px;
+         box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.459);*/
+}
+div, section #finalizar{
+  margin-left: 10px;
+}
+section #finalizar{
+  margin-top: 10px;
+}
+footer {
+  text-align: center;
+}
+select {
+  width: 145px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+/* Media querie = Início */
+
+/* Media querie = Fim */
